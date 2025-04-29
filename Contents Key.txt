@@ -1,0 +1,12 @@
+TLD-Empire/
+├── index.html
+├── style.css
+├── manifest.json
+├── robots.txt
+├── sitemap.xml
+├── ai.txt
+├── favicon.ico
+├── 404.html
+├── humans.txt
+├── assets/
+    └── phoenix.png (optional for now)
